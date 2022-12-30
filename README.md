@@ -1,10 +1,10 @@
 # Agenda-Todo-Application📑
 Fully functional Todo application using sqlite CRUD database to store persistent data
 # Technical Outline 📕
-❶ Onboarding page
-❷ Splashscreen page
-❸ Home page 
-❹ Adding tasking page
+❶ Onboarding page\
+❷ Splashscreen page\
+❸ Home page\
+❹ Adding tasking page\
 ❺ CRUD operations
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/189585614-80851ceb-72b3-494a-afa8-b4434a2ff1bb.mp4
